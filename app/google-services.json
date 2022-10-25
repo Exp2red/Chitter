@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456987999807",
+    "project_id": "chitter-96486",
+    "storage_bucket": "chitter-96486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456987999807:android:4695442c3d84417888c28a",
+        "android_client_info": {
+          "package_name": "com.example.chitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456987999807-ontoaa5p8rdi0826bhce51jrvb9702r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chitter",
+            "certificate_hash": "fb39f5a3c8f97213ed081b9cf07cbef4cab5910e"
+          }
+        },
+        {
+          "client_id": "456987999807-3fb5biql8hujisvkg92alqjvt8tjkv40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATvhDEqKBPT09rrbX3xug25HkxApSH8oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456987999807-3fb5biql8hujisvkg92alqjvt8tjkv40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
